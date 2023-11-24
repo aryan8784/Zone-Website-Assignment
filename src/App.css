@@ -1,0 +1,53 @@
+.herospan {
+  color: #fa541c;
+}
+
+.heroHeading h1 {
+  font-size: 63px !important;
+  font-weight: bold;
+  line-height: 90px;
+}
+
+.ThirdSecspan {
+  color: #fa541c;
+}
+
+.FourthSecImage {
+  background-image: url("https://zone-ui.vercel.app/assets/images/home/for_designer.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 50vh;
+  opacity: 0.3;
+}
+.BlurPara {
+  opacity: 0.3;
+}
+.head {
+  font-size: 53px;
+  font-weight: bold;
+}
+.bton{
+  background-color: #fa541c !important;
+  text-align: center;
+  padding: 15px !important;
+}
+
+.CrdsHead{
+  line-height: 63px;
+}
+
+.Cardflex{
+  display: flex;
+  padding: 60px;
+}
+.cardss{
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px !important;
+
+}
+.cardbtn{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
